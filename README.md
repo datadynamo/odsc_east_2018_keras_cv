@@ -1,1 +1,2 @@
-# odsc_east_2018_keras_cv
+# ODSC East 2018 
+# POWER UP YOUR COMPUTER VISION SKILLS WITH TENSORFLOW-KERAS Tutorial Materials
